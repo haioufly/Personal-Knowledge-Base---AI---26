@@ -1,10 +1,23 @@
 # Knowledge OS Starter
 
-一个面向 Obsidian、Git 和 AI Agent 的开源个人知识库模板。
+> AI-native personal knowledge base starter for Obsidian, Git, Markdown, and AI Agent workflows.
+
+一个面向 Obsidian、Git、Markdown 和 AI Agent 工作流的开源个人知识库模板。
+
+`obsidian` `personal knowledge base` `pkm` `second brain` `zettelkasten` `markdown` `ai agent` `knowledge management`
 
 [English README](README_EN.md)
 
-它不是传统笔记仓库，而是一个把信息流转为知识、思考、项目、创作和资产的 `Knowledge OS` 起点。
+它不是传统笔记仓库，而是一个把信息流转为知识、思考、项目、创作和资产的 `Knowledge OS` 起点。它也可以被理解为一个 `Obsidian vault template`、`PKM starter`、`second brain template`、`knowledge management system` 和 `AI-ready markdown repository`。
+
+## 项目定位
+
+这个仓库可以被理解为：
+
+- 一个适合长期维护的 `personal knowledge base`
+- 一个面向 Obsidian 的 `Markdown-first` 知识库模板
+- 一个兼容检索、自动化和 Agent 工作流的 `AI-native PKM starter`
+- 一个结合 `second brain`、`zettelkasten`、项目管理和创作流程的结构化仓库
 
 ## 适合谁
 
@@ -101,11 +114,31 @@ python3 scripts/kb_tools.py validate
 
 推荐把它定位为：
 
-`An AI-native personal knowledge base starter for Obsidian, Git, and structured knowledge workflows.`
+`An AI-native personal knowledge base starter for Obsidian, Git, Markdown, and structured knowledge workflows.`
 
 如果你想做中文开源主页，可以使用：
 
-`一个面向 Obsidian、Git 与 AI Agent 的 AI 原生个人知识库模板。`
+`一个面向 Obsidian、Git、Markdown 与 AI Agent 工作流的 AI 原生个人知识库模板。`
+
+## 建议的 GitHub Topics
+
+建议优先添加这些 topics：
+
+- `knowledge-management`
+- `personal-knowledge-base`
+- `obsidian`
+- `obsidian-md`
+- `markdown`
+- `pkm`
+- `second-brain`
+- `zettelkasten`
+- `knowledge-base`
+- `note-taking`
+- `ai-agent`
+- `ai-native`
+- `productivity`
+- `digital-garden`
+- `templates`
 
 ## 许可证
 

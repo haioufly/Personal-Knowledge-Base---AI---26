@@ -105,6 +105,17 @@ git push -u origin main
 
 推荐 topics 见 [OPEN_SOURCE_PACKAGE.md](OPEN_SOURCE_PACKAGE.md)。
 
+建议直接填写：
+
+- Description: `AI-native personal knowledge base starter for Obsidian, Git, Markdown, and structured knowledge workflows.`
+- Topics: `knowledge-management`, `personal-knowledge-base`, `obsidian`, `obsidian-md`, `markdown`, `pkm`, `second-brain`, `zettelkasten`, `knowledge-base`, `note-taking`, `ai-agent`, `ai-native`, `productivity`, `digital-garden`, `templates`
+
+填写原则：
+
+- 前 5 个 topic 优先放最强检索词：`knowledge-management`、`personal-knowledge-base`、`obsidian`、`markdown`、`pkm`
+- 只保留和仓库真实内容匹配的标签，不要为了流量添加无关 AI 词
+- Description 里尽量同时出现 `Obsidian`、`Markdown`、`personal knowledge base`、`AI-native`
+
 ### 2. 检查社区文件是否生效
 
 仓库推送后，GitHub 会自动识别：
@@ -152,6 +163,7 @@ git push origin v0.1.0
 - 从哪里开始读
 - 如何创建第一个知识节点
 - 如何校验
+- 这个仓库适用于哪些关键词场景，例如 `PKM`、`second brain`、`Obsidian vault template`
 
 ### 2. 处理首批 issue
 

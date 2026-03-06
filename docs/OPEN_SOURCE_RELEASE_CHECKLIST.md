@@ -25,6 +25,7 @@
 - [ ] 已确定仓库名
 - [ ] 已准备 description
 - [ ] 已准备 topics
+- [ ] README 首页已出现核心检索词：`Obsidian`、`Markdown`、`PKM`、`personal knowledge base`
 - [ ] 已准备首发版本号
 
 ## 发布动作

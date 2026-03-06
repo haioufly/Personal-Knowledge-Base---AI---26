@@ -1,10 +1,23 @@
 # Knowledge OS Starter
 
-An open-source personal knowledge base starter for Obsidian, Git, and AI Agent workflows.
+> AI-native personal knowledge base starter for Obsidian, Git, Markdown, and AI Agent workflows.
+
+An open-source personal knowledge base starter for Obsidian, Git, Markdown, and AI Agent workflows.
+
+`obsidian` `personal knowledge base` `pkm` `second brain` `zettelkasten` `markdown` `ai agent` `knowledge management`
 
 [中文说明](README.md)
 
-This repository is not just a note vault. It is a `Knowledge OS` starter that turns information into reusable knowledge, thinking frameworks, project context, creative output, and long-term assets.
+This repository is not just a note vault. It is a `Knowledge OS` starter that turns information into reusable knowledge, thinking frameworks, project context, creative output, and long-term assets. It can also be discovered and used as an `Obsidian vault template`, `PKM starter`, `second brain template`, `knowledge management system`, and `AI-ready markdown repository`.
+
+## Positioning
+
+This repository can be understood as:
+
+- a long-term maintainable `personal knowledge base`
+- a `Markdown-first` template for Obsidian users
+- an `AI-native PKM starter` for retrieval, automation, and agent workflows
+- a structured workflow that combines `second brain`, `zettelkasten`, project context, and creative output
 
 ## Who It Is For
 
@@ -101,7 +114,27 @@ This repository already includes:
 
 Suggested one-line description:
 
-`An AI-native personal knowledge base starter for Obsidian, Git, and structured knowledge workflows.`
+`An AI-native personal knowledge base starter for Obsidian, Git, Markdown, and structured knowledge workflows.`
+
+## Suggested GitHub Topics
+
+Recommended topics:
+
+- `knowledge-management`
+- `personal-knowledge-base`
+- `obsidian`
+- `obsidian-md`
+- `markdown`
+- `pkm`
+- `second-brain`
+- `zettelkasten`
+- `knowledge-base`
+- `note-taking`
+- `ai-agent`
+- `ai-native`
+- `productivity`
+- `digital-garden`
+- `templates`
 
 ## License
 

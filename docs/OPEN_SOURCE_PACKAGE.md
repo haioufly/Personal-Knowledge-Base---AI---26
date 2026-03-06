@@ -18,32 +18,76 @@
 
 中文：
 
-`一个面向 Obsidian、Git 与 AI Agent 的 AI 原生个人知识库模板。`
+`一个面向 Obsidian、Git、Markdown 与 AI Agent 工作流的 AI 原生个人知识库模板。`
 
 英文：
 
-`An AI-native personal knowledge base starter for Obsidian, Git, and structured knowledge workflows.`
+`An AI-native personal knowledge base starter for Obsidian, Git, Markdown, and structured knowledge workflows.`
 
 ## GitHub Repository Description
 
 建议填写：
 
-`AI-native personal knowledge base starter for Obsidian, Git, and structured knowledge workflows.`
+`AI-native personal knowledge base starter for Obsidian, Git, Markdown, and structured knowledge workflows.`
+
+如果想更强调使用场景，可选：
+
+- `Open-source PKM and second-brain starter for Obsidian, Markdown, Git, and AI Agent workflows.`
+- `Structured personal knowledge base template for Obsidian, PKM, second brain, and AI-native workflows.`
 
 ## GitHub Topics
 
-建议添加这些 topics：
+建议优先添加这些 topics：
 
 - `knowledge-management`
-- `obsidian`
-- `markdown`
 - `personal-knowledge-base`
+- `obsidian`
+- `obsidian-md`
+- `markdown`
+- `pkm`
+- `knowledge-base`
+- `note-taking`
 - `second-brain`
 - `zettelkasten`
 - `knowledge-graph`
 - `ai-agent`
+- `ai-native`
 - `productivity`
+- `digital-garden`
 - `templates`
+
+如果 GitHub topics 还没满，可以继续补充：
+
+- `markdown-notes`
+- `obsidian-vault`
+- `personal-wiki`
+- `knowledge-os`
+- `starter-kit`
+
+## 搜索关键词
+
+建议在 README 和发布文案里自然出现这些关键词，方便 GitHub 搜索和外部搜索引擎理解仓库定位：
+
+- `personal knowledge base`
+- `PKM`
+- `second brain`
+- `zettelkasten`
+- `Obsidian vault template`
+- `Markdown knowledge base`
+- `AI-native workflow`
+- `AI agent ready`
+- `knowledge management system`
+- `digital garden`
+
+## 可直接复制的 About 区域
+
+Description：
+
+`AI-native personal knowledge base starter for Obsidian, Git, Markdown, and structured knowledge workflows.`
+
+Topics：
+
+`knowledge-management, personal-knowledge-base, obsidian, obsidian-md, markdown, pkm, second-brain, zettelkasten, knowledge-base, note-taking, ai-agent, ai-native, productivity, digital-garden, templates`
 
 ## 首个版本定位
 
